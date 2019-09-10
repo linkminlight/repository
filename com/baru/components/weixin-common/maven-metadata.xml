@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>com.baru.components</groupId>
-  <artifactId>weixin-mp</artifactId>
+  <artifactId>weixin-common</artifactId>
   <versioning>
     <release>0.0.1-RELEASE</release>
     <versions>
       <version>0.0.1-RELEASE</version>
     </versions>
-    <lastUpdated>20190910011218</lastUpdated>
+    <lastUpdated>20190910011119</lastUpdated>
   </versioning>
 </metadata>

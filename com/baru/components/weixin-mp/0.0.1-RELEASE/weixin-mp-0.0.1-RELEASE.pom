@@ -15,7 +15,7 @@
 
     <dependencies>
         <dependency>
-            <groupId>com.baru.wxservice</groupId>
+            <groupId>com.baru.components</groupId>
             <artifactId>weixin-common</artifactId>
             <version>0.0.1-RELEASE</version>
         </dependency>
