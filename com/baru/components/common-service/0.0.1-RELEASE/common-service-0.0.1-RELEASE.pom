@@ -311,7 +311,7 @@
 		 <!--发布到本地-->
 		<repository>
 			<id>linkdeploy</id>
-			<url>file:E:/svnrepository/project/linker/server/link/</url>
+			<url>file:E:/svnrepository/project/linker/server/github/repository/</url>
 		</repository>
        <!-- <repository>
             <id>releases</id>
